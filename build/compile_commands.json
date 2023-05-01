@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/app/main.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/app/main.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/lacze_do_gnuplota.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/PowierzchniaMarsa.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/PowierzchniaMarsa.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/PowierzchniaMarsa.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Rotacja.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/Rotacja.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/Rotacja.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/ObiektGeom.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/ObiektGeom.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/ObiektGeom.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/ProbkaRegolitu.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/ProbkaRegolitu.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/ProbkaRegolitu.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Lazik.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/Lazik.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/Lazik.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/LazikSFR.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/LazikSFR.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/LazikSFR.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Scena.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/Scena.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/Scena.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Obrys.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/src/Obrys.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/src/Obrys.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/tests/main.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/tests/main.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_svector.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/tests/test_svector.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/tests/test_svector.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_smatrix.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/tests/test_smatrix.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/tests/test_smatrix.cpp"
+},
+{
+  "directory": "/home/nikodeml/programowanie/PO/Zad6/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/nikodeml/programowanie/PO/Zad6/build -I/home/nikodeml/programowanie/PO/Zad6/inc -I/home/nikodeml/programowanie/PO/Zad6/build/_deps/doctest-src  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/test_rotacja.cpp.o -c /home/nikodeml/programowanie/PO/Zad6/tests/test_rotacja.cpp",
+  "file": "/home/nikodeml/programowanie/PO/Zad6/tests/test_rotacja.cpp"
+}
+]
